@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 ### Favorite Apps
 #### 1. Evernote
-Cross-platform Syncing: I love how seamlessly Evernote syncs across all my devices, allowing me to access my notes and ideas from anywhere.
+Cross-platform Syncing: I love how seamlessly Evernote syncs across all my devices, allowing me to access my notes and ideas from anywhere.<\br>
 Tagging and Organization: The robust tagging and organization features make it easy for me to categorize and retrieve notes efficiently.
 #### 2. Spotify
 Personalized Playlists: Spotify's algorithm for creating personalized playlists based on my listening habits is impressive, introducing me to new music that aligns with my preferences.
