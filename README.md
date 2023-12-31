@@ -20,16 +20,16 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 ### Favorite Apps
 #### 1. Evernote
-Cross-platform Syncing: I love how seamlessly Evernote syncs across all my devices, allowing me to access my notes and ideas from anywhere.<\br>
+Cross-platform Syncing: I love how seamlessly Evernote syncs across all my devices, allowing me to access my notes and ideas from anywhere.<br/>
 Tagging and Organization: The robust tagging and organization features make it easy for me to categorize and retrieve notes efficiently.
 #### 2. Spotify
-Personalized Playlists: Spotify's algorithm for creating personalized playlists based on my listening habits is impressive, introducing me to new music that aligns with my preferences.
+Personalized Playlists: Spotify's algorithm for creating personalized playlists based on my listening habits is impressive, introducing me to new music that aligns with my preferences.<br/>
 Offline Listening: The ability to download playlists and listen offline is a game-changer, especially when I'm on the go or in areas with limited connectivity.
 #### 3. Google Maps
-Real-time Traffic Updates: The real-time traffic updates and alternative route suggestions help me navigate through busy city streets more efficiently.
+Real-time Traffic Updates: The real-time traffic updates and alternative route suggestions help me navigate through busy city streets more efficiently.<br/>
 Local Business Information: Google Maps' extensive database of local businesses, reviews, and photos aids in discovering new places with ease.
 #### 4. Pocket
-Offline Reading: The ability to save articles for offline reading is incredibly useful, allowing me to catch up on interesting content even without an internet connection.
+Offline Reading: The ability to save articles for offline reading is incredibly useful, allowing me to catch up on interesting content even without an internet connection.<br/>
 Tagging and Highlights: Pocket's tagging system and the ability to highlight key points in articles make it easier for me to revisit and share valuable information.
 #### App Idea: Mindful Minutes
 Mindful Minutes is a meditation and mindfulness app designed to help users incorporate short moments of calm into their busy lives. The app features guided meditation sessions ranging from one to five minutes, making it accessible for users with tight schedules. Additionally, Mindful Minutes incorporates a unique "Mindful Reminders" feature, allowing users to set personalized reminders throughout the day for brief mindfulness exercises. The app aims to promote mental well-being by integrating mindfulness seamlessly into daily routines, fostering a sense of peace and focus. Users can track their progress, and the app provides insights into the positive impact of consistent mindfulness practices on mental health.
